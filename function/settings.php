@@ -1,9 +1,9 @@
 <?php
 /*==========> INFO 
- * CODE     : BY ZLAXTERT
+ * CODE     : BY bulig69
  * SCRIPT   : CC CHECKER
  * VERSION  : V4.5
- * TELEGRAM : t.me/zlaxtert
+ * TELEGRAM : t.me/bulig69
  * BY       : DARKXCODE
  */
 $settings = array(
